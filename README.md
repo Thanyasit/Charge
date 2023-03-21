@@ -1,6 +1,6 @@
 # Light Control With Color
 <h2>Description</h2>
-This code allows you to control a light using a photoresistor and a button, and also displays different colors on a NeoPixel strip based on the light level. The light is turned on and off using a relay, and the color of the NeoPixel strip is determined by the light level detected by the photoresistor.
+This code allows you to control a light using a photoresistor and a button, and also displays different colors on a NeoPixel strip based on the light level. The light is turned on and off using a relay, and the color of the NeoPixel strip is determined by the light level detected by the photoresistor.<br><b>2020</b>
 <h2>Getting Started</h2>
 To get started with this code, you will need the following components:<br><br>
 
@@ -20,4 +20,5 @@ To get started with this code, you will need the following components:<br><br>
 <h2>Usage</h2>
 When you press the button, the light will turn on or off depending on its current state. The NeoPixel strip will display different colors based on the light level detected by the photoresistor. If the light level is high enough, the relay will turn on and the light will be on. If the light level is too low, the relay will turn off and the light will be off.
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
