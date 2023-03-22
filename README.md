@@ -23,7 +23,7 @@ When you press the button, the light will turn on or off depending on its curren
 ## Example
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77733903/226977739-f93125a1-8c8d-43e4-bcfe-9a56961a4d63.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/77733903/226977739-f93125a1-8c8d-43e4-bcfe-9a56961a4d63.jpg" width="300">
 </p>
 
 <h2>License</h2>
